@@ -26,6 +26,8 @@ xcuserdata
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
+Podfile.lock
+Pods
 
 # CocoaPods
 #
